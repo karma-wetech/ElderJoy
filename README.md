@@ -7,9 +7,9 @@
 ###### 'ElderJoy' is a platform that allows donors, volunteers and senior citizens to register and come together for providing myriad services to the senior citizens. This is an endeavor to connect our elders and volunteers beyond geographical limitations and provide better, safer and authenticated support for happier ever afters!   
 
 ## Features
-*Sign up as volunteer, senior citizen or an organisation
-*Volunteers can volunteer for different kind of events for elders
-*Volunteers can donate
-*Volunteers can create events
-*Senior citizens can attend events
-*SOS call option for senior citizens
+1. Sign up as volunteer, senior citizen or an organisation
+2. Volunteers can volunteer for different kind of events for elders
+3. Volunteers can donate
+4. Volunteers can create events
+5. Senior citizens can attend events
+6. SOS call option for senior citizens
