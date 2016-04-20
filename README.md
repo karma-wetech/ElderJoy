@@ -13,3 +13,6 @@
 4. Volunteers can create events
 5. Senior citizens can attend events
 6. SOS call option for senior citizens
+
+## Now on Google Play Store
+Download : [ElderJoy on PlayStore] (https://play.google.com/store/apps/details?id=appinventor.ai_karma_wetech.ElderJoy)
